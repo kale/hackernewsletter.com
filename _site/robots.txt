@@ -1,0 +1,2 @@
+Sitemap: http://www.hackernewsletter.com/sitemap.xml
+User-agent: *
